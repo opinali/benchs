@@ -1,2 +1,3 @@
-# benchs
-Some toy benchmarks
+# Simple Benchmarks
+
+Simple microbenchmarks.
